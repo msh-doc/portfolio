@@ -2,7 +2,7 @@
 
 This repository contains several demonstration projects where I apply both machine learning and deep learning methods, accompanied by preliminary statistical data analysis. A list of the projects and their brief descriptions is provided below:
 
-- [x] [Customer Churn Prediction for a Telecommunications Company](https://github.com/msh-doc/portfolio_ru/blob/master/telecom_client_churn_rate_with_catboost.ipynb) 
+- [x] [Customer Churn Prediction for a Telecommunications Company](https://github.com/msh-doc/portfolio/blob/master/telecom_client_churn_rate_with_catboost.ipynb) 
 <br>**description:** Selection of the best model for predicting customer churn 
 <br>**stack:** CatBoost, sklearn, phik, shap, pandas, seaborn, matplotlib, numpy 
 - [x] [Taxi Order Forecasting with Time Series](https://github.com/msh-doc/portfolio/blob/master/taxi_load_forcasting_with_lightgbm.ipynb)
