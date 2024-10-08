@@ -14,3 +14,4 @@ This repository contains several demonstration projects where I apply both machi
 - [x] [Customer age estimation  using convolutional neural networks (CNNs) on GPUs](https://github.com/msh-doc/portfolio/blob/master/photo2age_with_resnet.ipynb) 
 <br>**description:** Training a neural network based on ResNet50 to predict a person’s age from their image
 <br>**stack:** tensorflow, sklearn, pandas, seaborn, matplotlib, numpy
+
